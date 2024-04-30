@@ -1,3 +1,5 @@
+/* UTILIZANDO IF ELSE PARA TOMAR DECISÕES */
+
 let jogador = "hae-in"
 let xp = 11000
 
